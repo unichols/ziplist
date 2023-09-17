@@ -1,4 +1,3 @@
-const _ = require('./__cdnjs.cloudflare.com_ajax_libs_underscore.js_1.8.3_underscore.js');
 function zipList(list1, list2) {
   const zipped = [];
   for (let i = 0; i < list1.length; i++) {
